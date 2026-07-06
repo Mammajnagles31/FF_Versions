@@ -1,1 +1,8 @@
-
+{
+    "FF_Society": "1.0.0",
+    "FF_Bank": "1.0.0",
+    "FF_BusinessRegistry": "1.0.0",
+    "FF_Passport": "1.0.0",
+    "FF_Alchemy": "1.0.0",
+    "FF_Telephone": "1.0.0"
+}
